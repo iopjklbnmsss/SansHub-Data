@@ -1,0 +1,10 @@
+[
+    {
+        "title": "无敌模式",
+        "content": "function godmode()\n  player.hp = 9999\n  return '★ 无敌已激活 ★'\nend"
+    },
+    {
+        "title": "骨刺攻击",
+        "content": "function bone_attack()\n  spawnBones(20)\n  playSound('sans_special')\nend"
+    }
+]
